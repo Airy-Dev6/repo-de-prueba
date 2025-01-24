@@ -42,29 +42,3 @@ const orderInventory = (inventory) => {
 };
 
 console.log(orderInventory(inventory));
-
-// const obj = {};
-// let age = 24;
-// let altura = 1.75;
-
-// let name = "airy";
-
-// obj[name] = { age, altura };
-
-// console.log(obj);
-// let age2 = 10;
-
-// obj[name].age += age2;
-// console.log(obj);
-
-// Resultado esperado:
-const x = {
-  toys: {
-    doll: 5,
-    car: 5,
-  },
-  sports: {
-    ball: 2,
-    racket: 4,
-  },
-};
